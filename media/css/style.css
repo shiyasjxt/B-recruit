@@ -37,6 +37,12 @@ fieldset {
     margin: 0;
 }
 
+p.groupimg {
+    background: url(https://www.brecruit.com/media/B-recruit/images/rgf_l.png);
+    height: 100px;
+    background-repeat: no-repeat;
+}
+
 #AdvancedSearchFilter_PnlSalaryBands div input,
 #search-salary input,
 .secure-login input.login-inp,
